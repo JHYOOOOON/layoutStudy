@@ -1,0 +1,51 @@
+@import "reset.css";
+
+.body_wrapper {
+  overflow: hidden;
+}
+
+.header {
+  z-index: 5;
+  border-bottom: 1px rgb(190, 189, 189) solid;
+}
+
+.lnb_search_wrapper {
+  margin: 0 auto;
+  width: 1100px;
+}
+
+.lnb {
+  float: right;
+  margin-bottom: 30px;
+}
+.lnb_list {
+  float: left;
+  font-size: 6px;
+  padding: 5px;
+}
+.main_search_form {
+  clear: both;
+  margin: 0 auto;
+  margin-bottom: 55px;
+}
+.main_search {
+  width: 500px;
+  height: 50px;
+}
+.nav_realtime_wrapper {
+  border-top: 0.5px lightgrey solid;
+}
+.nav_realtime_float {
+  margin: 0 auto;
+  width: 1100px;
+}
+.nav {
+  float: left;
+}
+.nav_list:first-child {
+  padding-left: 0;
+}
+.nav_list {
+  float: left;
+  padding: 10px;
+}
