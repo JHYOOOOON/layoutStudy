@@ -232,6 +232,7 @@ h3 {
 }
 
 .login_wrapper {
+  box-sizing: border-box;
   height: 120px;
   background-color: white;
 }
@@ -524,6 +525,10 @@ i {
   float: left;
   padding: 0 30px;
   border-left: 1px solid lightgray;
+}
+
+.footer_content_right_list:last-child {
+  padding-right: 0;
 }
 
 .right_list_left {
