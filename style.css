@@ -243,13 +243,13 @@ h3 {
 }
 
 .login {
-  font-size: 14px;
+  font-size: 12px;
   width: 282px;
   margin: 0 auto;
 }
 .login > p,
 .login_bottom {
-  margin: 15px 0;
+  margin: 14px 0;
 }
 
 .login > p {
